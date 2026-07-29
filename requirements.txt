@@ -1,0 +1,5 @@
+holidays == 0.101
+pandas == 3.0.5
+pyarrow == 25.0.0
+python-dotenv == 1.2.2
+requests == 2.34.2
