@@ -5,8 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![LightGBM](https://img.shields.io/badge/LightGBM-Gradient%20Boosting-green)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-009688)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
