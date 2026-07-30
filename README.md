@@ -2,9 +2,23 @@
 
 > End-to-end Machine Learning project for forecasting **hourly electricity demand in the Community of Madrid** using historical demand, weather data and calendar features.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange)
 ![LightGBM](https://img.shields.io/badge/LightGBM-Gradient%20Boosting-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![Streamlit](https://img.shields.io/badge/Streamlit-Data%20App-FF4B4B)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626)
+![REData](https://img.shields.io/badge/REData-Electricity%20Data-red)
+![AEMET](https://img.shields.io/badge/AEMET-Weather%20Data-0072B8)
+![REST API](https://img.shields.io/badge/REST-API-009688)
+![JSON](https://img.shields.io/badge/JSON-Data%20Exchange-black)
+![CSV](https://img.shields.io/badge/CSV-Data%20Storage-lightgrey)
+![Time Series](https://img.shields.io/badge/Time%20Series-Forecasting-purple)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-ML-blueviolet)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-Development-007ACC)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
