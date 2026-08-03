@@ -86,6 +86,11 @@ def create_periods(start_date, end_date):
 
     return periods
 def save_periods(periods):
+    PERIODS_PATH.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
     config = {
         "periods": periods,
     }
